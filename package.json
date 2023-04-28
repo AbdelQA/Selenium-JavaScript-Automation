@@ -1,0 +1,11 @@
+{
+  "name": "seleniumjs",
+  "version": "1.0.0",
+  "description": "Selenium JavaScript Test Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdel Z",
+  "license": "ISC"
+}
