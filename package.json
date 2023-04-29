@@ -4,12 +4,14 @@
   "description": "Selenium JavaScript Test Automation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "loginTests": "mocha --recursive ConduitApp/Login"
   },
   "author": "Abdel Z",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.3.7",
     "chromedriver": "^112.0.0",
+    "mocha": "^10.2.0",
     "selenium-webdriver": "^4.9.0"
   }
 }
