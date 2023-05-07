@@ -1,4 +1,4 @@
-# SeleniumJS
+# Selenium Automation
 
 Selenium Automation repository using Mocha and Chai
 
